@@ -1,5 +1,5 @@
 var likeButton = Backbone.Model.extend ({
-  default: {
+  defaults: {
     'liked': false
   }
 });
